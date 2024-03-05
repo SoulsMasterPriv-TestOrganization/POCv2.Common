@@ -4,6 +4,9 @@
       "path": "Common"
     },
     {
+      "path": "License"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
